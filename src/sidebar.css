@@ -1,0 +1,32 @@
+
+.sideBarContainer{
+    height: 100vh;
+    width: 40px;
+    background-color: #515050;
+    position: relative;
+    float: left;
+    
+}
+
+.icons{
+    color: white;
+    height: 40px;
+    position: relative;
+    align-items: center;
+    
+}
+.icons > img{
+    width: 25px;
+    margin-top: 5px; 
+}
+.icons:hover{
+    background-color: black;
+}
+
+
+.icons:active{
+    background-color: red;
+
+}
+
+
